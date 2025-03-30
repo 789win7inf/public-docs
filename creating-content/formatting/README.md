@@ -1,79 +1,24 @@
----
-description: >-
-  Format your content in various ways using the context menu or keyboard
-  shortcuts
-icon: i-cursor
----
+Key Features of  <a href="https://vb88.promo/">VB88</a></div>
 
-# Formatting your content
+VB88 provides a diverse array of games and betting options for players, including:
 
-To format your text, simply select the words you want and choose one of the formats from the context menu — or format your text using a keyboard shortcut or through Markdown syntax.
+Sports Betting: VB88 supports betting on various sports such as football, basketball, tennis, and many others.
 
-{% hint style="info" %}
-We’ve written these shoradolestcuts using Mac keys. Use **Control** in place of **⌘ (Command)** on Windows or Linux operating systems. Check out our [keyboard shortcuts](../../resources/keyboard-shortcuts.md) section to see all the shortcuts for all operating systems.
-{% endhint %}
+Online Casino: Popular live casino games like baccarat, blackjack, and roulette are available with professional dealers streaming in real-time.
 
-### Bold
+Slot Games: A wide selection of slot games with various themes and exciting rewards.
+Promotions and Bonuses at VB88
+VB88 regularly offers attractive promotions to draw players in, such as welcome bonuses for new members, cashback on losses, and special prizes for participating in exclusive events. These promotions give players more chances to enjoy and win big.
+How to Register and Play on VB88
+To start playing at VB88, users need to create an account by signing up on the website or through the mobile app. After registration, players can deposit funds into their accounts and begin betting. The process is simple and fast, with excellent customer support to assist players along the way.
 
-Keyboard shortcut: <kbd>⌘</kbd> + <kbd>B</kbd>
+Let me know if you need more details or further explanations on any of the points!
+<a href="https://vb88.promo/">https://vb88.promo/</a> 
 
-{% tabs %}
-{% tab title="Markdown" %}
-```markdown
-**Bold**
-```
-{% endtab %}
-{% endtabs %}
+<a href="https://vb88.promo/">https://vb88.promo/</a> 
 
-### Italic
+<a href="https://vb88.promo/">https://vb88.promo/</a> 
 
-Keyboard shortcut : <kbd>⌘</kbd> + <kbd>I</kbd>
-
-{% tabs %}
-{% tab title="Markdown" %}
-```markdown
-_Italic_
-```
-{% endtab %}
-{% endtabs %}
-
-### Strikethrough
-
-Keyboard shortcut: <kbd>⇧</kbd> + <kbd>⌘</kbd> + <kbd>S</kbd>
-
-{% tabs %}
-{% tab title="Markdown" %}
-```markdown
-~~Strikethrough~~
-```
-{% endtab %}
-{% endtabs %}
-
-### Code
-
-Keyboard shortcut: <kbd>⌘</kbd> + <kbd>E</kbd>
-
-{% tabs %}
-{% tab title="Markdown" %}
-```markdown
-`Code`
-```
-{% endtab %}
-{% endtabs %}
-
-### Link
-
-Keyboard shortcut: <kbd>⌘</kbd> + <kbd>K</kbd>
-
-When you add a link to text on your page, you’ll be prompted to provide the link. You can add any URL, but if you’re linking to another page or section in your space, we recommend [using a relative link](inline.md#relative-links).
-
-This is [a link to an external page](https://www.gitbook.com).
-
-This is a [link to another page in this space](../blocks/).
-
-This is a [link to a section on this page](./#code).
-
-This is [a link that starts an email to a specific address](mailto:support@gitbook.com).
 
 ### Color and background color
 
